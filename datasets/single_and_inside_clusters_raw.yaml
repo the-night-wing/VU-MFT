@@ -1,0 +1,8 @@
+train: single_and_inside_clusters_raw/train/
+val: single_and_inside_clusters_raw/val/
+
+# number of classes
+nc: 2
+
+# class names
+names: ['defect', 'in_cluster']

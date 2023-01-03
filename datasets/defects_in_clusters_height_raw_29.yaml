@@ -1,0 +1,8 @@
+train: defects_in_clusters_height_raw_29/train/
+val: defects_in_clusters_height_raw_29/val/
+
+# number of classes
+nc: 1
+
+# class names
+names: ['defect']
